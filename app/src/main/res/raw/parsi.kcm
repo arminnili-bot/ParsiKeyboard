@@ -1,0 +1,306 @@
+# Parsi Enhanced Persian Keyboard Layout for Android
+# Generated from Persian_enhanced.klc by MRN
+
+type OVERLAY
+
+key 1 {
+    label:                              '\u06f1'
+    base:                               '\u06f1'
+    shift:                              '\u0021'
+    shift+alt:                          '\u2665'
+}
+key 2 {
+    label:                              '\u06f2'
+    base:                               '\u06f2'
+    shift:                              '\u0022'
+    alt:                                '\u0027'
+    shift+alt:                          '\u2660'
+}
+key 3 {
+    label:                              '\u06f3'
+    base:                               '\u06f3'
+    shift:                              '\u00a7'
+    shift+alt:                          '\u2666'
+}
+key 4 {
+    label:                              '\u06f4'
+    base:                               '\u06f4'
+    alt:                                '\u0024'
+    shift+alt:                          '\u00a3'
+}
+key 5 {
+    label:                              '\u06f5'
+    base:                               '\u06f5'
+    shift:                              '\u066a'
+    alt:                                '\u2030'
+    shift+alt:                          '\u266a'
+}
+key 6 {
+    label:                              '\u06f6'
+    base:                               '\u06f6'
+    shift:                              '\u0026'
+    shift+alt:                          '\u266b'
+}
+key 7 {
+    label:                              '\u06f7'
+    base:                               '\u06f7'
+    shift:                              '\u002f'
+    alt:                                '\u007d'
+    shift+alt:                          '\u066b'
+}
+key 8 {
+    label:                              '\u06f8'
+    base:                               '\u06f8'
+    shift:                              '\u0029'
+    alt:                                '\u005d'
+    shift+alt:                          '\u066c'
+}
+key 9 {
+    label:                              '\u06f9'
+    base:                               '\u06f9'
+    shift:                              '\u0028'
+    alt:                                '\u005b'
+}
+key 0 {
+    label:                              '\u06f0'
+    base:                               '\u06f0'
+    shift:                              '\u003d'
+    alt:                                '\u007b'
+    shift+alt:                          '\u0023'
+}
+key MINUS {
+    label:                              '\u002d'
+    base:                               '\u002d'
+    shift:                              '\u061f'
+    alt:                                '\u2014'
+    shift+alt:                          '\u2020'
+}
+key EQUALS {
+    label:                              '\u2212'
+    base:                               '\u2212'
+    shift:                              '\u2013'
+    alt:                                '\u2014'
+    shift+alt:                          '\u005f'
+}
+key Q {
+    label:                              '\u0636'
+    base:                               '\u0636'
+    shift:                              '\u064e'
+    alt:                                '\u064b'
+}
+key W {
+    label:                              '\u0635'
+    base:                               '\u0635'
+    shift:                              '\u0650'
+    alt:                                '\u064d'
+}
+key E {
+    label:                              '\u062b'
+    base:                               '\u062b'
+    shift:                              '\u064f'
+    alt:                                '\u064c'
+    shift+alt:                          '\u20ac'
+}
+key R {
+    label:                              '\u0642'
+    base:                               '\u0642'
+    shift:                              '\u0652'
+    alt:                                '\u200f'
+    shift+alt:                          '\u2567'
+}
+key T {
+    label:                              '\u0641'
+    base:                               '\u0641'
+    shift:                              '\u064b'
+    shift+alt:                          '\u25c4'
+}
+key Y {
+    label:                              '\u063a'
+    base:                               '\u063a'
+    shift:                              '\u0651'
+    shift+alt:                          '\u2534'
+}
+key U {
+    label:                              '\u0639'
+    base:                               '\u0639'
+    shift:                              '\u002c'
+    shift+alt:                          '\u263a'
+}
+key I {
+    label:                              '\u0647'
+    base:                               '\u0647'
+    shift:                              '\u0629'
+    alt:                                '\u06c2'
+    shift+alt:                          '\u0674'
+}
+key O {
+    label:                              '\u062e'
+    base:                               '\u062e'
+    shift:                              '\u203a'
+    alt:                                '\u221e'
+    shift+alt:                          '\u263c'
+}
+key P {
+    label:                              '\u062d'
+    base:                               '\u062d'
+    shift:                              '\u2039'
+    alt:                                '\u0e4f'
+    shift+alt:                          '\u2640'
+}
+key LEFT_BRACKET {
+    label:                              '\u062c'
+    base:                               '\u062c'
+    shift:                              '\u00bb'
+    alt:                                '\ufd3e'
+    shift+alt:                          '\u2642'
+}
+key RIGHT_BRACKET {
+    label:                              '\u0686'
+    base:                               '\u0686'
+    shift:                              '\u00ab'
+    alt:                                '\ufd3f'
+}
+key A {
+    label:                              '\u0634'
+    base:                               '\u0634'
+    shift:                              '\u0621'
+    alt:                                '\u00b0'
+    shift+alt:                          '\u2215'
+}
+key S {
+    label:                              '\u0633'
+    base:                               '\u0633'
+    shift:                              '\u0626'
+    shift+alt:                          '\u20aa'
+}
+key D {
+    label:                              '\u06cc'
+    base:                               '\u06cc'
+    shift:                              '\u064a'
+    alt:                                '\u0649'
+    shift+alt:                          '\u25ba'
+}
+key F {
+    label:                              '\u0628'
+    base:                               '\u0628'
+    shift:                              '\u0625'
+    alt:                                '\u066a'
+    shift+alt:                          '\u25bc'
+}
+key G {
+    label:                              '\u0644'
+    base:                               '\u0644'
+    shift:                              '\u0623'
+    shift+alt:                          '\u2584'
+}
+key H {
+    label:                              '\u0627'
+    base:                               '\u0627'
+    shift:                              '\u0622'
+    alt:                                '\u007e'
+    shift+alt:                          '\u25d8'
+}
+key J {
+    label:                              '\u062a'
+    base:                               '\u062a'
+    shift:                              '\u0640'
+    alt:                                '\u00ac'
+    shift+alt:                          '\u25d9'
+}
+key K {
+    label:                              '\u0646'
+    base:                               '\u0646'
+    shift:                              '\u2018'
+    shift+alt:                          '\u25ca'
+}
+key L {
+    label:                              '\u0645'
+    base:                               '\u0645'
+    shift:                              '\u2019'
+    shift+alt:                          '\u25cb'
+}
+key SEMICOLON {
+    label:                              '\u06a9'
+    base:                               '\u06a9'
+    shift:                              '\u0643'
+    alt:                                '\u0341'
+    shift+alt:                          '\u25aa'
+}
+key APOSTROPHE {
+    label:                              '\u06af'
+    base:                               '\u06af'
+    shift:                              '\u0670'
+    alt:                                '\u0340'
+}
+key GRAVE {
+    label:                              '\u0622'
+    base:                               '\u0622'
+    shift:                              '\u0674'
+    alt:                                '\u06c2'
+    shift+alt:                          '\u263b'
+}
+key BACKSLASH {
+    label:                              '\u002e'
+    base:                               '\u002e'
+    shift:                              '\u003a'
+    alt:                                '\u2026'
+    shift+alt:                          '\u2022'
+}
+key Z {
+    label:                              '\u060c'
+    base:                               '\u060c'
+    shift:                              '\u061b'
+    alt:                                '\u003e'
+    shift+alt:                          '\u2265'
+}
+key X {
+    label:                              '\u0638'
+    base:                               '\u0638'
+    shift:                              '\u002b'
+    alt:                                '\u0026'
+    shift+alt:                          '\u2260'
+}
+key C {
+    label:                              '\u0637'
+    base:                               '\u0637'
+    shift:                              '\u002d'
+    alt:                                '\u00b1'
+    shift+alt:                          '\u2261'
+}
+key V {
+    label:                              '\u0631'
+    base:                               '\u0631'
+    alt:                                '\u002a'
+}
+key B {
+    label:                              '\u067e'
+    base:                               '\u067e'
+    shift:                              '\u00f7'
+    alt:                                '\u005c'
+    shift+alt:                          '\u2206'
+}
+key N {
+    label:                              '\u0630'
+    base:                               '\u0630'
+    shift:                              '\u201c'
+    alt:                                '\u007c'
+    shift+alt:                          '\u00a6'
+}
+key M {
+    label:                              '\u062f'
+    base:                               '\u062f'
+    shift:                              '\u201d'
+    shift+alt:                          '\u2229'
+}
+key SLASH {
+    label:                              '\u0698'
+    base:                               '\u0698'
+    shift:                              '\u061f'
+    alt:                                '\u002f'
+}
+key 102ND {
+    label:                              '\u200c'
+    base:                               '\u200c'
+    alt:                                '\u003c'
+    shift+alt:                          '\u2264'
+}
